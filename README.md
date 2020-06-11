@@ -1,6 +1,6 @@
 # multiplication-table
 
-This is a multiplication table web app written in HTML, CSS, and JavaScript.
+Multiplication table web app written in HTML, CSS, and JavaScript.
 
 Use this app at [table.mrcodeswildride.com](https://table.mrcodeswildride.com/).
 Learn how to make this app at [mrcodeswildride.com](https://www.mrcodeswildride.com/).
